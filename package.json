@@ -1,0 +1,10 @@
+{
+  "name": "my-openclaw",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "openclaw gateway --port 3000"
+  },
+  "dependencies": {
+    "openclaw": "latest"
+  }
+}
